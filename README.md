@@ -10,7 +10,7 @@ To begin, install Puppeteer in your project, run:
 ```sh
 $ npm i puppeteer
 ```
-You would prefer to learn about more the Puppeteer in [here](https://github.com/puppeteer/puppeteer) 
+You would prefer to learn more about the Puppeteer in [here](https://github.com/puppeteer/puppeteer) 
 
 Now to run the program, run:
 
